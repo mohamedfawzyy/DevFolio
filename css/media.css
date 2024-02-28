@@ -1,0 +1,6 @@
+@media only screen and (max-width: 600px) {
+    .counters{
+        height: 100%;
+        padding-block: 30px;
+    }
+}
